@@ -46,7 +46,7 @@ El servidor asume la siguiente estructura de directorios:
 |- resources/        // Directorio para los recursos servidos
    |- archivo_fuente
       |- archivo_prueba1
-      ```
+``````
 
 ## Compilación
 
