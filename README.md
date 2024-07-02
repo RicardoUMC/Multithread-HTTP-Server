@@ -30,7 +30,9 @@ Para ejecutar el servidor en tu sistema, utiliza el siguiente comando:
 
 ```bash
 ./web_server
-```# Servidor Web en C
+```
+
+# Servidor Web en C
 
 Este es un servidor web básico escrito en C que utiliza una alberca de hilos para manejar múltiples conexiones HTTP. El servidor puede manejar solicitudes GET, POST, PUT y HEAD para archivos estáticos y para la creación o actualización de archivos en el servidor.
 
